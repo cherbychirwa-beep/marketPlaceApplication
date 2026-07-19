@@ -12,11 +12,10 @@ Department of Information and Communication Technology
 ## Student Details
 
 | Field | Value |
-|---|---|
-| Name | _Cherby — please fill in your full name_ |
-| Registration Number | _please fill in_ |
-| Course | _please fill in_ |
-| Submission Date | 12 July 2026 |
+|ICT|Developer|
+| Name | Cherby Chirwa |
+| Email address |cherbychirwa@gmail.com  |
+
 
 ---
 
