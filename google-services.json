@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093346426970",
+    "project_id": "market-place-application-f12d0",
+    "storage_bucket": "market-place-application-f12d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093346426970:android:9618e8f869792bab659863",
+        "android_client_info": {
+          "package_name": "com.shopizzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093346426970-77hkrffcvnc9j46hn2jr8osbh2hmo0al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopizzo",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1093346426970-qdibirjh7gusmerda6ran7qb0lmfbacg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-E7egl8alDXSuDZC0G9OBtdSPtryPKnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093346426970-qdibirjh7gusmerda6ran7qb0lmfbacg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
