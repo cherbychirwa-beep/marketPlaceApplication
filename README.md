@@ -9,17 +9,13 @@ Department of Information and Communication Technology
 
 ---
 
-## Student Details
+Developer Details
 
-| Field | Value |
-|ICT|Developer|
 | Name | Cherby Chirwa |
 | Email address |cherbychirwa@gmail.com  |
 
 
----
-
-## 1. How to Open This Project in Android Studio
+1. How to Open This Project in Android Studio
 
 1. **Android Studio version** — Use **Android Studio Koala (2024.1)** or newer.
    Older versions cannot parse Gradle 8.7 / AGP 8.5.
