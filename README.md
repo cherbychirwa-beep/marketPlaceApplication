@@ -3,11 +3,9 @@
 An Android e-commerce marketplace app built with **Kotlin**, **Jetpack Compose**,
 **Firebase (Authentication + Firestore)**, and advanced UI/UX enhancements.
 
-Submitted for: Mini Project Assignment — Marketplace Application Enhancement
-Mzuzu University, Faculty of Science, Technology and Innovation
-Department of Information and Communication Technology
 
----
+
+
 
 Developer Details
 
